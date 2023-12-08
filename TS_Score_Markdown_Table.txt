@@ -1,0 +1,50 @@
+| Scientific Name           | IUCN Category         |   Extinction Pronbability |   Irreplaceability |   Distinctiveness |    TS Score |
+|:--------------------------|:----------------------|--------------------------:|-------------------:|------------------:|------------:|
+| Adrianichthys kruyti      | Critically Endangered |                      0.5  |           1        |          2.5      |  1.25       |
+| Adrianichthys roseni      | Critically Endangered |                      0.5  |           1        |          2.5      |  1.25       |
+| Chilatherina bleheri      | Endangered            |                      0.05 |           0.5      |          3.69109  |  0.0922773  |
+| Chilatherina sentaniensis | Critically Endangered |                      0.5  |           1        |          4.06609  |  2.03305    |
+| Glossamia timika          | Endangered            |                      0.05 |           2        |          1.43309  |  0.143309   |
+| Glossogobius mahalonensis | Endangered            |                      0.05 |           0.333333 |          0.765625 |  0.0127604  |
+| Glossogobius hoesei       | Endangered            |                      0.05 |           0.5      |          0.765625 |  0.0191406  |
+| Glossogobius sentaniensis | Endangered            |                      0.05 |           1        |          0.765625 |  0.0382813  |
+| Glossolepis incisus       | Endangered            |                      0.05 |           1        |          2.92748  |  0.146374   |
+| Glossolepis dorityi       | Critically Endangered |                      0.5  |           0.5      |          2.92748  |  0.73187    |
+| Hemibagrus lacustrinus    | Endangered            |                      0.05 |           0.5      |          0.487805 |  0.0121951  |
+| Melanotaenia ajamaruensis | Critically Endangered |                      0.5  |           1        |          0.55814  |  0.27907    |
+| Melanotaenia boesemani    | Endangered            |                      0.05 |           0.5      |          6.9785   |  0.174463   |
+| Melanotaenia corona       | Critically Endangered |                      0.5  |           1        |          0.55814  |  0.27907    |
+| Melanotaenia parva        | Critically Endangered |                      0.5  |           1        |          6.2235   |  3.11175    |
+| Melanotaenia arfakensis   | Endangered            |                      0.05 |           0.25     |          8.2285   |  0.102856   |
+| Melanotaenia fasinensis   | Endangered            |                      0.05 |           1        |          0.55814  |  0.027907   |
+| Melanotaenia klasioensis  | Critically Endangered |                      0.5  |           1        |          0.55814  |  0.27907    |
+| Melanotaenia lacunosa     | Critically Endangered |                      0.5  |           1        |          0.55814  |  0.27907    |
+| Melanotaenia longispina   | Critically Endangered |                      0.5  |           1        |          0.55814  |  0.27907    |
+| Melanotaenia manibuii     | Endangered            |                      0.05 |           1        |          0.55814  |  0.027907   |
+| Melanotaenia susii        | Critically Endangered |                      0.5  |           1        |          0.55814  |  0.27907    |
+| Mogurnda mbuta            | Critically Endangered |                      0.5  |           1        |          0.209222 |  0.104611   |
+| Mugilogobius adeia        | Endangered            |                      0.05 |           1        |          0.575758 |  0.0287879  |
+| Mugilogobius latifrons    | Endangered            |                      0.05 |           0.333333 |          0.575758 |  0.00959596 |
+| Mugilogobius amadi        | Critically Endangered |                      0.5  |           1        |          0.575758 |  0.287879   |
+| Mugilogobius sarasinorum  | Endangered            |                      0.05 |           1        |          0.575758 |  0.0287879  |
+| Nomorhamphus celebensis   | Endangered            |                      0.05 |           0.5      |          0.363    |  0.009075   |
+| Ompok binotatus           | Endangered            |                      0.05 |           0.2      |          1.41993  |  0.0141993  |
+| Oryzias woworae           | Endangered            |                      0.05 |           0.25     |          3.13259  |  0.0391574  |
+| Oryzias asinua            | Endangered            |                      0.05 |           0.5      |          2.88259  |  0.0720648  |
+| Oryzias soerotoi          | Critically Endangered |                      0.5  |           1        |          3.29644  |  1.64822    |
+| Oxyeleotris wisselensis   | Endangered            |                      0.05 |           1        |          1.10294  |  0.0551471  |
+| Pangio robiginosa         | Endangered            |                      0.05 |           0.5      |          0.878788 |  0.0219697  |
+| Parambassis altipinnis    | Critically Endangered |                      0.5  |           1        |          1.81579  |  0.907895   |
+| Pelangia mbutaensis       | Critically Endangered |                      0.5  |           1        |         46.68     | 23.34       |
+| Poropuntius tawarensis    | Critically Endangered |                      0.5  |           1        |          0.822368 |  0.411184   |
+| Pseudomugil ivantsoffi    | Endangered            |                      0.05 |           0.5      |          1.52656  |  0.0381641  |
+| Pseudomugil luminatus     | Endangered            |                      0.05 |           0.5      |          1.51562  |  0.0378906  |
+| Pseudomugil reticulatus   | Critically Endangered |                      0.5  |           1        |         24.365    | 12.1825     |
+| Pseudomystus myersi       | Endangered            |                      0.05 |           0.5      |          1.25689  |  0.0314224  |
+| Rasbora tawarensis        | Critically Endangered |                      0.5  |           1        |          0.515024 |  0.257512   |
+| Rasbora maninjau          | Endangered            |                      0.05 |           1        |          0.515024 |  0.0257512  |
+| Telmatherina bonti        | Endangered            |                      0.05 |           0.2      |          1.743    |  0.01743    |
+| Telmatherina wahjui       | Endangered            |                      0.05 |           0.333333 |          1.743    |  0.02905    |
+| Xenopoecilus poptae       | Endangered            |                      0.05 |           1        |          6.57259  |  0.32863    |
+| Xenopoecilus sarasinorum  | Critically Endangered |                      0.5  |           1        |          2.28811  |  1.14406    |
+| Xenopoecilus bonneorum    | Endangered            |                      0.05 |           1        |          0.727273 |  0.0363636  |
